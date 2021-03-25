@@ -1,0 +1,54 @@
+header {
+  background-color: darkturquoise;
+  height: 90px;
+}
+.header-list li {
+  float: left;
+  list-style: none;
+  margin-right: 10px;
+  padding-top: 35px;
+}
+
+a {
+  color: white;
+  font-weight: bold;
+}
+
+.title {
+  color: white;
+  font-size: 36px;
+  font-weight: bold;
+  border-radius: 10px;
+  padding: 20px 20px;
+  float: left;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+form {
+  margin-top: 50px;
+  padding: 10px;
+  background-color: teal;
+  background-image: url(img/本２.jpg);
+  background-size: cover;
+  color: white;
+  font-weight: bold;
+}
+
+.footer {
+  height: 100px;
+  background-color: darkturquoise;
+  margin-top: 35px;
+}
+
+.footer-logo {
+  color: white;
+  font-size: 26px;
+  font-weight: bold;
+  border-radius: 10px;
+  padding: 30px 20px;
+  float: left;
+}
